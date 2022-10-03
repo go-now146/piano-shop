@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/home.jsp</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/DeleteItemServlet.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/ManagerController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/registration/RegistrationDTO.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/ListAccount.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/search.jsp</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/UpdateCartServlet.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/login.html</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/DetailController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/style.css</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/entity/Product.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/detail.html</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/SearchController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/list.jsp</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/registration/RegistrationDAO.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/UpdateController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/ListProduct.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/MainController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/NullController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/META-INF/context.xml</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/CategoryController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/LoginController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/invalid.html</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/WEB-INF/web.xml</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/entity/Category.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/DeleteController.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/web/courseStore.html</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/Homecontroller.java</file>
+            <file>file:/D:/java/Prj301/SE150874_Assignment_SU22/src/java/loanntk/controller/AddItemController.java</file>
+        </group>
+    </open-files>
+</project-private>
